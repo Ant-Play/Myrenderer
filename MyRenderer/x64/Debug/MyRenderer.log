@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\career\graphic\workspace\MyRenderer\MyRenderer\main.cpp(27,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\career\graphic\workspace\MyRenderer\MyRenderer\main.cpp(48,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\career\graphic\workspace\MyRenderer\MyRenderer\main.cpp(49,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\career\graphic\workspace\MyRenderer\MyRenderer\main.cpp(50,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\career\graphic\workspace\MyRenderer\MyRenderer\main.cpp(51,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  MyRenderer.vcxproj -> D:\career\graphic\workspace\MyRenderer\x64\Debug\MyRenderer.exe
